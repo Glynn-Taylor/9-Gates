@@ -1,0 +1,1350 @@
+<class-diagram version="1.0.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_Layer" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_Layer.java" binary="false">    
+    <position height="-1" width="-1" x="1564" y="339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_PrefabMap" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_PrefabMap.java" binary="false">    
+    <position height="-1" width="-1" x="2335" y="1486"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_Object" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_Object.java" binary="false">    
+    <position height="-1" width="-1" x="2049" y="884"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_InvDisplay" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_InvDisplay.java" binary="false">    
+    <position height="-1" width="-1" x="1797" y="1401"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="game.graphics.Colour" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/Colour.java" binary="false">    
+    <position height="-1" width="-1" x="861" y="237"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_Stats" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_Stats.java" binary="false">    
+    <position height="-1" width="-1" x="1043" y="262"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_Console" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_Console.java" binary="false">    
+    <position height="-1" width="-1" x="2309" y="1003"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_StatDisplay" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_StatDisplay.java" binary="false">    
+    <position height="-1" width="-1" x="2083" y="1384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_PrefabPalette" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_PrefabPalette.java" binary="false">    
+    <position height="-1" width="-1" x="1854" y="373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="game.graphics.GUI_Button" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/graphics/GUI_Button.java" binary="false">    
+    <position height="-1" width="-1" x="2325" y="1868"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.Entity" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/Entity.java" binary="false">    
+    <position height="-1" width="-1" x="864" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.furniture.Furniture" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/furniture/Furniture.java" binary="false">    
+    <position height="-1" width="-1" x="864" y="661"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.furniture.Pillar" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/furniture/Pillar.java" binary="false">    
+    <position height="-1" width="-1" x="1619" y="908"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.furniture.Portal" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/furniture/Portal.java" binary="false">    
+    <position height="-1" width="-1" x="1788" y="925"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.LootTable" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/mobs/LootTable.java" binary="false">    
+    <position height="-1" width="-1" x="2581" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.Mob" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/mobs/Mob.java" binary="false">    
+    <position height="-1" width="-1" x="3102" y="906"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.Player" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/mobs/Player.java" binary="false">    
+    <position height="-1" width="-1" x="2605" y="1241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.Stats" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/mobs/Stats.java" binary="false">    
+    <position height="-1" width="-1" x="3203" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Skeleton" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Skeleton.java" binary="false">    
+    <position height="-1" width="-1" x="2305" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Bandit" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Bandit.java" binary="false">    
+    <position height="-1" width="-1" x="2114" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Ghost" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Ghost.java" binary="false">    
+    <position height="-1" width="-1" x="2687" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Demon" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Demon.java" binary="false">    
+    <position height="-1" width="-1" x="2496" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Orc" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Orc.java" binary="false">    
+    <position height="-1" width="-1" x="2878" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Lich" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Lich.java" binary="false">    
+    <position height="-1" width="-1" x="3069" y="260"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="25" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Zombie" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Zombie.java" binary="false">    
+    <position height="-1" width="-1" x="3260" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="26" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Werewolf" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Werewolf.java" binary="false">    
+    <position height="-1" width="-1" x="3451" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="27" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Vampire" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Vampire.java" binary="false">    
+    <position height="-1" width="-1" x="3833" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="28" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.enemies.Dwarf" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/enemies/Dwarf.java" binary="false">    
+    <position height="-1" width="-1" x="3642" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="29" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.Inventory" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/Inventory.java" binary="false">    
+    <position height="-1" width="-1" x="2910" y="1282"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.StandardItem" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/StandardItem.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3901" y="1359"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="31" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.InventoryItem" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/InventoryItem.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4017" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="32" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.EquipableItem" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/EquipableItem.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3660" y="1415"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="33" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.InventorySlot" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/InventorySlot.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4010" y="826"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="34" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Legs" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Legs.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="2598" y="2010"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="35" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Sword" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Sword.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3098" y="2010"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="36" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Neck" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Neck.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="2848" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="37" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Ring" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Ring.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3598" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="38" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Chest" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Chest.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3348" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="39" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Boots" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Boots.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="3848" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="40" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Shield" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Shield.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4098" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="41" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.equipable.Head" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/equipable/Head.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4348" y="2001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="42" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.standard.ManaPotion" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/standard/ManaPotion.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4553" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="43" corner="BOTTOM_RIGHT" language="java" 
+    name="game.level.entities.mobs.player.items.standard.HealthPotion" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/standard/HealthPotion.java" binary="false">    
+    <position height="-1" width="-1" x="4306" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="44" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.mobs.player.items.standard.Gold" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/mobs/player/items/standard/Gold.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="4800" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="45" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.pickup.Health" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/pickup/Health.java" binary="false">    
+    <position height="-1" width="-1" x="3536" y="436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="46" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.pickup.Experience" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/pickup/Experience.java" binary="false">    
+    <position height="-1" width="-1" x="3874" y="444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="47" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.pickup.EquipablePickup" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/level/entities/pickup/EquipablePickup.java" binary="false">    
+    <position height="-1" width="-1" x="3705" y="427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="48" corner="BOTTOM_RIGHT" language="java" name="game.level.entities.pickup.Pickup" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/entities/pickup/Pickup.java" binary="false">    
+    <position height="-1" width="-1" x="3227" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="49" corner="BOTTOM_RIGHT" language="java" name="game.level.map.Prefab" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/Prefab.java" binary="false">    
+    <position height="-1" width="-1" x="1910" y="2367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="50" corner="BOTTOM_RIGHT" language="java" name="game.level.map.TileMap" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/TileMap.java" binary="false">    
+    <position height="-1" width="-1" x="2186" y="2614"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="51" corner="BOTTOM_RIGHT" language="java" name="game.level.map.Room" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/Room.java" binary="false">    
+    <position height="-1" width="-1" x="2625" y="2823"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="52" corner="BOTTOM_RIGHT" language="java" name="game.level.map.DungeonGenerator" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/DungeonGenerator.java" binary="false">    
+    <position height="-1" width="-1" x="2533" y="2452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="53" corner="BOTTOM_RIGHT" language="java" name="game.level.map.TileDefinition" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/TileDefinition.java" binary="false">    
+    <position height="-1" width="-1" x="3036" y="2384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="54" corner="BOTTOM_RIGHT" language="java" name="game.level.map.Point" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/Point.java" binary="false">    
+    <position height="-1" width="-1" x="3202" y="2342"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="55" corner="BOTTOM_RIGHT" language="java" name="game.level.map.MapFragment" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/MapFragment.java" binary="false">    
+    <position height="-1" width="-1" x="3389" y="2452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="56" corner="BOTTOM_RIGHT" language="java" name="game.level.map.TileMapGenerator" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/map/TileMapGenerator.java" binary="false">    
+    <position height="-1" width="-1" x="3887" y="2452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="57" corner="BOTTOM_RIGHT" language="java" name="game.level.tiles.FloorTile" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/tiles/FloorTile.java" binary="false">    
+    <position height="-1" width="-1" x="4356" y="2380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="58" corner="BOTTOM_RIGHT" language="java" name="game.level.tiles.WallTile" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/tiles/WallTile.java" binary="false">    
+    <position height="-1" width="-1" x="4568" y="2370"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="59" corner="BOTTOM_RIGHT" language="java" name="game.level.tiles.MapTile" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/tiles/MapTile.java" binary="false">    
+    <position height="-1" width="-1" x="4594" y="2688"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="60" corner="BOTTOM_RIGHT" language="java" name="game.level.tiles.BlankTile" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/level/tiles/BlankTile.java" binary="false">    
+    <position height="-1" width="-1" x="4737" y="2370"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="61" corner="BOTTOM_RIGHT" language="java" name="game.pathfinding.Node" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/pathfinding/Node.java" binary="false">    
+    <position height="-1" width="-1" x="3031" y="3201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="62" corner="BOTTOM_RIGHT" language="java" name="game.pathfinding.NodeMap" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/pathfinding/NodeMap.java" binary="false">    
+    <position height="-1" width="-1" x="2969" y="2783"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="63" corner="BOTTOM_RIGHT" language="java" name="game.pathfinding.Point" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/pathfinding/Point.java" binary="false">    
+    <position height="-1" width="-1" x="3154" y="2749"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="64" corner="BOTTOM_RIGHT" language="java" name="game.resources.GraphicsHandler" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/resources/GraphicsHandler.java" binary="false">    
+    <position height="-1" width="-1" x="276" y="280"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="65" corner="BOTTOM_RIGHT" language="java" name="game.resources.AudioHandler" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/resources/AudioHandler.java" binary="false">    
+    <position height="-1" width="-1" x="522" y="280"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="66" corner="BOTTOM_RIGHT" language="java" name="game.resources.GraphicsHandler.MobArt" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/resources/GraphicsHandler.java" binary="false">    
+    <position height="-1" width="-1" x="196" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="67" corner="BOTTOM_RIGHT" language="java" name="game.resources.AudioHandler.AudioPiece" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/resources/AudioHandler.java" binary="false">    
+    <position height="-1" width="-1" x="554" y="449"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="68" corner="BOTTOM_RIGHT" language="java" name="game.resources.GraphicsHandler.ItemArt" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/resources/GraphicsHandler.java" binary="false">    
+    <position height="-1" width="-1" x="363" y="457"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="69" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_MENU.java" binary="false">    
+    <position height="-1" width="-1" x="344" y="1810"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="70" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU_VICTORY" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_MENU_VICTORY.java" binary="false">    
+    <position height="-1" width="-1" x="108" y="2410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="71" corner="BOTTOM_RIGHT" language="java" name="game.states.State" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State.java" binary="false">    
+    <position height="-1" width="-1" x="650" y="1931"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="72" corner="BOTTOM_RIGHT" language="java" name="game.states.Game.GameState" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/Game.java" binary="false">    
+    <position height="-1" width="-1" x="280" y="1439"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="73" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU_DEATHSCREEN" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_MENU_DEATHSCREEN.java" binary="false">    
+    <position height="-1" width="-1" x="474" y="2410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="74" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU_MULTIPLAYER" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_MENU_MULTIPLAYER.java" binary="false">    
+    <position height="-1" width="-1" x="695" y="2410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="75" corner="BOTTOM_RIGHT" language="java" name="game.states.State_PREFAB_EDITOR" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_PREFAB_EDITOR.java" binary="false">    
+    <position height="-1" width="-1" x="920" y="2614"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="76" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU_PREFAB_EDITOR" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/states/State_MENU_PREFAB_EDITOR.java" binary="false">    
+    <position height="-1" width="-1" x="1153" y="2419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="77" corner="BOTTOM_RIGHT" language="java" name="game.states.Game" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/Game.java" binary="false">    
+    <position height="-1" width="-1" x="220" y="1050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="78" corner="BOTTOM_RIGHT" language="java" name="game.states.State_MENU_SINGLEPLAYER" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_MENU_SINGLEPLAYER.java" binary="false">    
+    <position height="-1" width="-1" x="1383" y="2410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="79" corner="BOTTOM_RIGHT" language="java" name="game.states.State_SINGLEPLAYER" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/states/State_SINGLEPLAYER.java" binary="false">    
+    <position height="-1" width="-1" x="1611" y="2631"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="80" corner="BOTTOM_RIGHT" language="java" name="game.util.GameBrowser" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/util/GameBrowser.java" binary="false">    
+    <position height="-1" width="-1" x="927" y="1324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="81" corner="BOTTOM_RIGHT" language="java" name="game.util.GameSave" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/util/GameSave.java" binary="false">    
+    <position height="-1" width="-1" x="1128" y="1349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="82" corner="BOTTOM_RIGHT" language="java" name="game.util.PrefabBrowser.ImageFileFilter" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/util/PrefabBrowser.java" binary="false">    
+    <position height="-1" width="-1" x="1328" y="1646"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="83" corner="BOTTOM_RIGHT" language="java" name="game.util.GameBrowser.ImageFileFilter" 
+    project="COMP4_OpenGL" file="/COMP4_OpenGL/src/game/util/GameBrowser.java" binary="false">    
+    <position height="-1" width="-1" x="929" y="1646"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="84" corner="BOTTOM_RIGHT" language="java" name="game.util.PrefabBrowser" project="COMP4_OpenGL" 
+    file="/COMP4_OpenGL/src/game/util/PrefabBrowser.java" binary="false">    
+    <position height="-1" width="-1" x="1329" y="1324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization id="85">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="87">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="88" name="player"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="91" name="CurrentSave"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="97">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="98" name="Buttons"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="100">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="101">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="102" name="objects"/>      
+      <multiplicity id="103" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="104">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <association id="105">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="106" name="BasicWallColors"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="109" name="tiles"/>      
+      <multiplicity id="110" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="112" name="Console"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="115" name="MenuGUILayer"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="118" name="nodeMap"/>      
+      <multiplicity id="119" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="120">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="121">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="122" name="ParentNode"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="124">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <generalization id="125">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="126">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="127" name="ActiveEntity"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="131">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="132" name="player"/>      
+      <multiplicity id="133" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="135" name="Buttons"/>      
+      <multiplicity id="136" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="137">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <nesting id="138">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="72"/>  
+  </nesting>  
+  <generalization id="139">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="140">    
+    <bendpoint x="1014" y="430"/>    
+    <bendpoint x="1014" y="956"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="141" name="Buttons"/>      
+      <multiplicity id="142" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="144" name="Item"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="147" name="World"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="150" name="GUI"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="152">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="153">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="154" name="Rooms"/>      
+      <multiplicity id="155" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="157" name="Loot"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="160" name="MainGUILayer"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="162">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="163">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="164">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="165" name="GUI"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="168" name="LevelMobs"/>      
+      <multiplicity id="169" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="170">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <generalization id="171">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <association id="172">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="173" name="player"/>      
+      <multiplicity id="174" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="175">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="177">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="178" name="OpenList"/>      
+      <multiplicity id="179" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="180">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <association id="181">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="182" name="t"/>      
+      <multiplicity id="183" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="184">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="185" name="ButtonGUILayer"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="188" name="prefab"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="190">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="191" name="PathFinder"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="194">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="195">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="83"/>  
+  </nesting>  
+  <association id="196">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="197" name="GUI"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="199">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="200">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="201" name="player"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="203">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="204" name="inventory"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="206">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="207" name="ConnectedTo"/>      
+      <multiplicity id="208" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="209">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="210">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="211" name="CurrentState"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="214" name="statRef"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="216">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <nesting id="217">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="67"/>  
+  </nesting>  
+  <association id="218">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="219" name="MenuGUILayer"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="221">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="222" name="GUI"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="224">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="225" name="Buttons"/>      
+      <multiplicity id="226" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="227">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="68"/>  
+  </nesting>  
+  <association id="228">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="229" name="PrefabPalette"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="232" name="GUI"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="235" name="player"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="237">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <association id="238">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="239" name="player"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="241">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="66"/>  
+  </nesting>  
+  <association id="242">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="243" name="EquippedItems"/>      
+      <multiplicity id="244" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="245">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <association id="246">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="247" name="Worlds"/>      
+      <multiplicity id="248" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="249">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="250">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="251" name="StatRenderer"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="253">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="254" name="map"/>      
+      <multiplicity id="255" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="256">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="257" name="PrefabMap"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="259">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="260" name="BasicFloorColors"/>      
+      <multiplicity id="261" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="262">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="263">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="264" name="Slots"/>      
+      <multiplicity id="265" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="266">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="267">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="268">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="269">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="270">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="271" name="Statistics"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="273">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="274" name="GameState"/>      
+      <multiplicity id="275" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="276">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="277">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="278">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="279" name="HolderEntity"/>      
+      <multiplicity id="280" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="281">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="82"/>  
+  </nesting>  
+  <generalization id="282">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="283">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="284">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="285" name="Pickups"/>      
+      <multiplicity id="286" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="287">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <generalization id="288">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <generalization id="289">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="290">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="291" name="WorldMap"/>      
+      <multiplicity id="292" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="293">    
+    <end type="SOURCE" refId="70" navigable="false">      
+      <attribute id="294" name="GUI"/>      
+      <multiplicity id="295" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="296">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="297" name="prefab"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="299">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="300">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <association id="301">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="302" name="ClosedList"/>      
+      <multiplicity id="303" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
