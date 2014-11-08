@@ -21,7 +21,7 @@ The entire project was rendered using OpenGL, though written in Java (uses LWJGL
 
 - [WarwickGameDesign](https://www.warwickgamedesign.co.uk)
   - [Forums](https://www.warwickgamedesign.co.uk/forum)
-    - [Games](https://www.warwickgamedesign.co.uk/games)
+  - [Games](https://www.warwickgamedesign.co.uk/games)
 
 ##Builds
-    - [Windows/Linux/Mac](http://gtaylor.warwickcompsoc.co.uk/downloads/9-gates/9Gates_win-mac-linux_08-11-2014.zip)
+- [Windows Linux Mac](http://gtaylor.warwickcompsoc.co.uk/downloads/9-gates/9Gates_win-mac-linux_08-11-2014.zip)
